@@ -1,5 +1,5 @@
-##Implementación de una función lambda + api gateway
-###Node
+## Implementación de una función lambda + api gateway
+### Node
 Abra una terminal bash y ejecute el siguiente comando:
 
 ```bash
